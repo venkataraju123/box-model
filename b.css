@@ -1,0 +1,36 @@
+.cointainer{
+    /* border:2px solid red; */
+    /* width: 1400px; */
+    /* height: 800px; */
+    padding: 80px;
+}
+.child1{
+    display: inline-block;
+    /* border: 2px solid green; */
+    width: 300px;
+    height:400px;
+}
+.child2{
+    display: inline-block;
+    /* border: 2px solid green; */
+    width: 300px;
+    height:400px;
+}
+.child3{
+    display: inline-block;
+    /* border: 2px solid green; */
+    width: 300px;
+    height:400px;
+}
+.child4{
+    display: inline-block;
+    /* border: 2px solid green; */
+    width:300px;
+    height: 400px;
+}
+img{ 
+    width:100%;
+}
+
+
+    
